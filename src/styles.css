@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Box {
+  width: 255px;
+  height: 255px;
+}
